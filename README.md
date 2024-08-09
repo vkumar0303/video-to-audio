@@ -1,6 +1,10 @@
 
 # Title: Extract Audio from Video (Python with moviepy)
 
+# Methodology:
+![Requirements Gathering](https://github.com/user-attachments/assets/0fdbfdc0-f0fc-4961-a78e-5192742eeb7c)
+
+
 # Description:
 
     This script allows you to easily extract the audio track from a video file and save it as an MP3 format. It utilizes the moviepy.editor library for video manipulation and the tkinter.filedialog module for user-friendly file selection dialog.
